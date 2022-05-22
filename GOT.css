@@ -11,6 +11,10 @@ body {
     height: 100%;
 }
 
+.wrapper{
+    text-align: center;
+}
+
 #got-container {
     padding-inline-start: 0;
     display: grid;
